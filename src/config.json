@@ -1,3 +1,6 @@
 {
-    "token": "token"
+    "token": "token",
+    "database": {
+        "url": "mongodb_url"
+    }
 }
