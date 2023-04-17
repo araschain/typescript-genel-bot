@@ -1,3 +1,6 @@
 export interface Config {
-    token: string
+    token: string,
+    database: {
+        url: string,
+    }
 }
